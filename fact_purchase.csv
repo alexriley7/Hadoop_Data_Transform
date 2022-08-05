@@ -1,4 +1,4 @@
-﻿Purchase Key,Date_Key,Supplier_Key,Stock_Item_Key,WWI_Purchase_Order_ID,Ordered_Outers,Ordered_Quantity,Received_Outers,Package,Is_Order_Finalized,Lineage_Key
+﻿Purchase_Key,Date_Key,Supplier_Key,Stock_Item_Key,WWI_Purchase_Order_ID,Ordered_Outers,Ordered_Quantity,Received_Outers,Package,Is_Order_Finalized,Lineage_Key
 5,1/1/2013,17,143,2,1,12,1,Carton,1,10
 95,1/2/2013,17,143,7,6,72,6,Carton,1,10
 140,1/3/2013,17,143,12,11,132,11,Carton,1,10
