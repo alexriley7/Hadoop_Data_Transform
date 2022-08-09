@@ -6,3 +6,7 @@ using PySpark and does several transformations on DataTypes and columns in order
 In this case we've used PowerBI to show Sales performance by Unit Price Category, Color Item Category, Top Product Sales by Month And KPI performance from previous
 Sales month.
 
+fact_consolidated_b.pbix
+
+
+
