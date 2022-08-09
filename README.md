@@ -7,8 +7,8 @@ In this case we've used PowerBI to show Sales performance by Unit Price Category
 Sales month.
 
 
---fact_consolidated_b.pbix
---PySpark_dataTransformation.ipynb
+--Report fact_consolidated_b.pbix
+--Scripts PySpark_dataTransformation.ipynb
 
 
 
